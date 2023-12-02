@@ -14,11 +14,12 @@ This project focuses on enhancing the quality of a video by upscaling its resolu
 ## Sample Input and Sample Output
 
 ### output 
-![image](https://github.com/jaiydv/VideoEnhancement/assets/85070747/40a46405-2e98-419c-b86c-17abbae9dc6e)  ![image](https://github.com/jaiydv/VideoEnhancement/assets/85070747/d4944198-9d0e-4f6f-ac3d-34bf7f1310fb)
 
+https://github.com/jaiydv/VideoEnhancement/assets/85070747/8256fb41-16d3-4cf9-b96d-9a35c0412005
 
+### input
 
-
+https://github.com/jaiydv/VideoEnhancement/assets/85070747/3ad9a728-092f-4e61-900b-65b79280b59f
 
 ## Usage
 
