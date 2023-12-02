@@ -1,2 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
+D:/listed/Assignment_3_complete/Assignment-3/GFPGAN-master/experiments/pretrained_models/GFPGANv1.3.pth filter=lfs diff=lfs merge=lfs -text
+D:/listed/Assignment_3_complete/Assignment-3/GFPGAN-master/experiments/pretrained_models/GFPGANv1.3.pth.1 filter=lfs diff=lfs merge=lfs -text
